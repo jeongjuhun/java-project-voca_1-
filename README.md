@@ -18,7 +18,7 @@
 | **Platform** | Android Studio |
 | **Language** | JAVA |
 | **AI Integration** | ChatGPT API |
-| **Database** | SQLite (또는 사용하신 DB 명칭) |
+| **Database** | Firebase (또는 사용하신 DB 명칭) |
 
 ---
 
